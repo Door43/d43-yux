@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[yux:home|Door43 (yux)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-yux|d43-yux repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-yux/archive/master.zip|d43-yux.zip]]
+
+**Recent Changes**
+{{changes>ns = yux}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/yux|Ethnologue data]]
+
